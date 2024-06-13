@@ -15,7 +15,7 @@ Microsoft.MicrosoftEdge.Stable
 Microsoft.MicrosoftStickyNotes
 Microsoft.Paint
 Microsoft.People
-Microsoft.PowerAutomateDesktop
+#Microsoft.PowerAutomateDesktop
 Microsoft.ScreenSketch
 Microsoft.SecHealthUI
 Microsoft.StorePurchaseApp
